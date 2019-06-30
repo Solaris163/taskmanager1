@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'task_name' => 'Task name',
+    'task_description' => 'Task description',
+    'task_responsible' => 'Task responsible',
+    'task_creator' => 'Task creator',
+    'deadline' => 'Deadline',
+    'task_status' => 'Task status',
+    'filter_by_months' => 'Filter by months',
+    'select_month' => 'Select month',
+    'save' => 'Save changes',
+    'apply' => 'Apply',
+    'upload_picture' => 'Upload picture',
+    'upload' => 'Upload',
+    'send' => 'Send',
+    'home' => 'Home',
+    'about' => 'About',
+    'contact' => 'Contact',
+    'logout' => 'Logout',
+    'login' => 'Log in',
+    'change_language' => 'Перейти на русскую версию',
+    'admin_panel' => 'Admin panel',
+    'create_task' => 'Create task',
+    'name' => 'Name',
+    'password' => 'Password',
+    'remember_me' => 'Remember Me',
+];

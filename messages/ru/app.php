@@ -1,0 +1,28 @@
+<?php
+
+return [
+    'task_name' => 'Название задачи',
+    'task_description' => 'Описание задачи',
+    'task_responsible' => 'Исполнитель задачи',
+    'task_creator' => 'Автор задачи',
+    'deadline' => 'Срок выполнения задачи',
+    'task_status' => 'Статус задачи',
+    'filter_by_months' => 'Фильтр по месяцам',
+    'select_month' => 'Выберите месяц',
+    'save' => 'Сохранить изменения',
+    'apply' => 'Применить',
+    'upload_picture' => 'Загрузить изображение',
+    'upload' => 'Загрузить',
+    'send' => 'Отправить',
+    'home' => 'Главная',
+    'about' => 'О Проекте',
+    'contact' => 'Контакты',
+    'logout' => 'Выйти',
+    'login' => 'Войти',
+    'change_language' => 'Go to english',
+    'admin_panel' => 'Админка',
+    'create_task' => 'Создать задачу',
+    'name' => 'Имя',
+    'password' => 'Пароль',
+    'remember_me' => 'Запомнить меня',
+];
