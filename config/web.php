@@ -18,7 +18,7 @@ $config = [
         'authManager' => [
             'class' => 'yii\rbac\DbManager',
         ],
-        'changeLanguage' => [
+        'changeLanguage' => [//во втором курсе не добавлял этот компонент, все работает
             'class' => \app\components\ChangeLanguage::class
         ],
         'i18n' => [
